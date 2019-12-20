@@ -1,2 +1,2 @@
-# Machine-Learning-
-Machine Learning Codes
+# Machine-Learning-Homeworks
+Homeworks for Introduction to Machine Learning Lecture
